@@ -19,11 +19,11 @@
 >|  Name | Profession at                          | Linked-in  | Status        |
 >|------------------|--------------------------------------|------------|---------------|
 >| 👩🏻‍💻[MaleswarPrabu](https://github.com/Prabhu-s-mini-projects/Analyse) | General Motors     | <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/maleswarprabu/" height="15" width="15" /> | In Development        |
->| 👩🏻‍💻**[Deepak](https://github.com/Prabhu-s-mini-projects/tiny-python-tasks)**   | SANDISK              |  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/prabhukumarsivamoorthy/" height="15" width="15" />    | In Development |
->| 👩🏻‍💻**[Shiva](https://github.com/Prabhu-s-mini-projects/tiny-python-tasks)**  | SANDISK         | <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/shivapk12/" height="15" width="15" />  | In Development        |
->| 👩🏻‍💻**[Karthikayen](https://github.com/Prabhu-s-mini-projects/tiny-python-tasks)**  | Workday         | <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/karthikram1/" height="15" width="15" />  | In Development        |
->| 👩🏻‍💻**[TBD](https://github.com/Prabhu-s-mini-projects/tiny-python-tasks)**  | TBD         |  | In Development        |
->| 👩🏻‍💻**[TBD](https://github.com/Prabhu-s-mini-projects/tiny-python-tasks)**  | TBD         |  | In Development        |
+>| 👩🏻‍💻[Deepak](https://github.com/Prabhu-s-mini-projects/tiny-python-tasks)   | SANDISK              |  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/prabhukumarsivamoorthy/" height="15" width="15" />    | In Development |
+>| 👩🏻‍💻[Shiva](https://github.com/Prabhu-s-mini-projects/tiny-python-tasks)  | SANDISK         | <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/shivapk12/" height="15" width="15" />  | In Development        |
+>| 👩🏻‍💻[Karthikayen](https://github.com/Prabhu-s-mini-projects/tiny-python-tasks)  | Workday         | <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/karthikram1/" height="15" width="15" />  | In Development        |
+>| 👩🏻‍💻[TBD](https://github.com/Prabhu-s-mini-projects/tiny-python-tasks) | TBD         |  | In Development        |
+>| 👩🏻‍💻[TBD](https://github.com/Prabhu-s-mini-projects/tiny-python-tasks) | TBD         |  | In Development        |
 
 
 ### Our Repositories 📦
