@@ -18,12 +18,12 @@
 ### Members 👥
 >|  Name | Profession at                          | Education  | Status        |
 >|------------------|--------------------------------------|------------|---------------|
->| 👩🏻‍💻**[MaleswarPrabu](https://github.com/Prabhu-s-mini-projects/Analyse)**| Scripts for analysing the banks statements       | Python, Batch | In Development        |
->| 👩🏻‍💻**[Deepak](https://github.com/Prabhu-s-mini-projects/tiny-python-tasks)**   | Mini Projects for Students              | Python     | In Development |
->| 👩🏻‍💻**[Shiva](https://github.com/Prabhu-s-mini-projects/tiny-python-tasks)**  | Web application development         | JavaScript | In Development        |
->| 👩🏻‍💻**[Karthikayen](https://github.com/Prabhu-s-mini-projects/tiny-python-tasks)**  | Web application development         | JavaScript | In Development        |
->| 👩🏻‍💻**[TBD](https://github.com/Prabhu-s-mini-projects/tiny-python-tasks)**  | Web application development         | JavaScript | In Development        |
->| 👩🏻‍💻**[TBD](https://github.com/Prabhu-s-mini-projects/tiny-python-tasks)**  | Web application development         | JavaScript | In Development        |
+>| 👩🏻‍💻**[MaleswarPrabu](https://github.com/Prabhu-s-mini-projects/Analyse)** | General Motors     | Python, Batch | In Development        |
+>| 👩🏻‍💻**[Deepak](https://github.com/Prabhu-s-mini-projects/tiny-python-tasks)**   | SANDISK              | Python     | In Development |
+>| 👩🏻‍💻**[Shiva](https://github.com/Prabhu-s-mini-projects/tiny-python-tasks)**  | SANDISK         | JavaScript | In Development        |
+>| 👩🏻‍💻**[Karthikayen](https://github.com/Prabhu-s-mini-projects/tiny-python-tasks)**  | Workday         | JavaScript | In Development        |
+>| 👩🏻‍💻**[TBD](https://github.com/Prabhu-s-mini-projects/tiny-python-tasks)**  | TBD         | JavaScript | In Development        |
+>| 👩🏻‍💻**[TBD](https://github.com/Prabhu-s-mini-projects/tiny-python-tasks)**  | TBD         | JavaScript | In Development        |
 
 
 ### Our Repositories 📦
