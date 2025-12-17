@@ -22,7 +22,7 @@
 >| 👩🏻‍💻[Deepak](https://github.com/Prabhu-s-mini-projects/tiny-python-tasks)   | SANDISK              |  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/prabhukumarsivamoorthy/" height="15" width="15" />    | In Development |
 >| 👩🏻‍💻[Shiva](https://github.com/Prabhu-s-mini-projects/tiny-python-tasks)  | SANDISK         | <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/shivapk12/" height="15" width="15" />  | In Development        |
 >| 👩🏻‍💻[Karthikayen](https://github.com/Prabhu-s-mini-projects/tiny-python-tasks)  | Workday         | <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/karthikram1/" height="15" width="15" />  | In Development        |
->| 👩🏻‍💻[TBD](https://github.com/Prabhu-s-mini-projects/tiny-python-tasks) | TBD         |  | In Development        |
+>| 👩🏻‍💻[Sairoop](https://github.com/Prabhu-s-mini-projects/tiny-python-tasks) | SANDISK         |  | In Development        |
 >| 👩🏻‍💻[TBD](https://github.com/Prabhu-s-mini-projects/tiny-python-tasks) | TBD         |  | In Development        |
 
 
@@ -36,7 +36,7 @@
 >| **[tiny-python-tasks](https://github.com/Prabhu-s-mini-projects/tiny-python-tasks)**  👩🏻‍💻📓✍🏻💡 | Mini Projects for Students              | Python     | In Development |
 >| **project-alpha**  | Web application development         | JavaScript | In Development        |
 >| **project-beta** | Machine learning experiments        | Python     | In Development       |
->| **[Portfolio](https://github.com/InnovBotics-Labs/Portfolio)🌐** | Portfolio Website       | Python     | In Development       |
+
 >
 ><details closed>
 >  <summary>Repository Status Legend</summary>
