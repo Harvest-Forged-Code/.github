@@ -15,27 +15,15 @@
 >🙋‍♀️ Innovate | Automate | Transform : 
 > Owned by Prabhukumar Sivamoorthy, Harvest-Forged-Code is a platform for innovative and hobby-driven projects. Focused on robotics, AI, IoT, and software development, We bring creative ideas to life through practical and impactful solutions. Explore our repositories and join us in shaping the future of technology through passion and innovation.
 
-### Members 👥
->|  Name | Profession at                          | Linked-in  | Status        |
->|------------------|--------------------------------------|------------|---------------|
->| 👩🏻‍💻[MaleswarPrabu](https://github.com/Prabhu-s-mini-projects/Analyse) | General Motors     | <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/maleswarprabu/" height="15" width="15" /> | In Development        |
->| 👩🏻‍💻[Deepak](https://github.com/Prabhu-s-mini-projects/tiny-python-tasks)   | SANDISK              |  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/prabhukumarsivamoorthy/" height="15" width="15" />    | In Development |
->| 👩🏻‍💻[Shiva](https://github.com/Prabhu-s-mini-projects/tiny-python-tasks)  | SANDISK         | <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/shivapk12/" height="15" width="15" />  | In Development        |
->| 👩🏻‍💻[Karthikayen](https://github.com/Prabhu-s-mini-projects/tiny-python-tasks)  | Workday         | <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/karthikram1/" height="15" width="15" />  | In Development        |
->| 👩🏻‍💻[Sairoop](https://github.com/Prabhu-s-mini-projects/tiny-python-tasks) | SANDISK         |  | In Development        |
->| 👩🏻‍💻[TBD](https://github.com/Prabhu-s-mini-projects/tiny-python-tasks) | TBD         |  | In Development        |
-
 
 ### Our Repositories 📦
 
 > Here’s a quick summary of all repositories in my organization:
 >
->| Repository Name | Description                          | Language   | Status        |
->|------------------|--------------------------------------|------------|---------------|
->| **[Analyser](https://github.com/Prabhu-s-mini-projects/Analyser)** 💰 📈| Scripts for analysing the banks statements       | Python, Batch | In Development        |
->| **[tiny-python-tasks](https://github.com/Prabhu-s-mini-projects/tiny-python-tasks)**  👩🏻‍💻📓✍🏻💡 | Mini Projects for Students              | Python     | In Development |
->| **project-alpha**  | Web application development         | JavaScript | In Development        |
->| **project-beta** | Machine learning experiments        | Python     | In Development       |
+>| Repository Name | Description                          | Releases   | Status        | Team |
+>|------------------|--------------------------------------|------------|---------------|-------|
+>| **[Analyser](https://github.com/Prabhu-s-mini-projects/Analyser)** 💰 📈| Scripts for analysing the banks statements       | [Current Version](https://github.com/Harvest-Forged-Code/Analyser/releases)| In Development        | [Budget_Analyser Development Team](https://github.com/orgs/Harvest-Forged-Code/teams/budget_analyser-devlopment-team) |
+
 
 >
 ><details closed>
